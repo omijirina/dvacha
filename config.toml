@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://dvacha.vercel.app/"
-title = "Persian"
+title = "Rotegoy"
 theme = "persian hugo"
 languageName = "En"
 languageCode = "en-us"
